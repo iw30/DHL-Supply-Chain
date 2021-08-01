@@ -16,4 +16,4 @@ The report consists of two parts: The first part contains an executive summary a
 
 2. [Phyton Code](https://github.com/iw30/IEOR162/blob/main/DHL.ipynb): This is the Phyton code for this project. I mainly used Gurobi to perform the mathematical optimization model. 
 
-The result on the report is coded using AMPL as the modelling language. Note that there is a slight difference on the result between the report and inside the notebook because of different modelling language used. 
+The result on the report is coded using AMPL as the modelling language. Note that there is a slight difference on the result between the report and inside the notebook because of different modelling languages used. 
