@@ -5,7 +5,7 @@ The project consists of modeling and providing a computational solution to the D
 
 The goal of this project is to make a recommendation for the company and provide a report including a plan about how the company can reduce CO2 emissions without raising the supply chain budget too much.
 
-This is originally school project coded using AMPL as the optimization language. However, in this project, I decided to add the use of Gurobi API in Phyton to perform linear programming formulation. The linear programming is formulated such that it minimizes the  𝐶𝑂2  emission while satisfying the budget constraint and other constraints in this project.
+I decided to add the use of Gurobi API in Phyton to perform linear programming formulation. The linear programming is formulated such that it minimizes the  𝐶𝑂2  emission while satisfying the budget constraint and other constraints in this project.
 
 # What's inside my Repository
 
@@ -16,4 +16,3 @@ The report consists of two parts: The first part contains an executive summary a
 
 2. [Phyton Code](https://github.com/iw30/IEOR162/blob/main/DHL.ipynb): This is the Phyton code for this project. I mainly used Gurobi to perform the mathematical optimization model. 
 
-The result on the report is coded using AMPL as the modelling language. Note that there is a slight difference on the result between the report and inside the notebook because of different modelling languages used. 
